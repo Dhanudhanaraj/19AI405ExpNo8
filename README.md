@@ -71,7 +71,7 @@ Begin<br>
       return true<br>
    return false<br>
 End<br>
-## Prpgram
+## Program
 ```
 from itertools import permutations
 
